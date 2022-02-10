@@ -2,6 +2,7 @@
 import argparse
 import os
 from src import file_service
+import logging
 
 
 def read_file():
